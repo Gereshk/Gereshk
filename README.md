@@ -1,3 +1,5 @@
+![Gereshk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gereshk&show_icons=true&theme=transparent)
+
 - 👋 Hi, I’m @Gereshk
 - 👀 I’m interested in Cyber Security and becoming a Penetration tester
 - 🌱 I’m currently learning the OSCP path
